@@ -1,0 +1,19 @@
+SITE TP FRACIONADO — PUBLICAÇÃO NO GITHUB PAGES
+
+1. Crie uma conta em https://github.com (se necessário).
+2. Clique em New repository e escolha um nome, por exemplo: tp-fracionado.
+3. Para usar GitHub Pages gratuito em repositório público, selecione Public.
+4. No repositório, clique em Add file > Upload files e envie index.html, dados_base.js e .nojekyll desta pasta (não envie a planilha original).
+5. Em Settings > Pages > Build and deployment, escolha Deploy from a branch, branch main e pasta /(root), depois Save.
+6. Após a publicação, o endereço costuma ser https://SEU-USUARIO.github.io/tp-fracionado/ (o GitHub mostrará o endereço exato).
+7. Compartilhe o link publicado com o time.
+
+ATUALIZAÇÃO DIÁRIA
+- Envie a base atualizada na conversa.
+- Após receber o novo dados_base.js, substitua o arquivo no mesmo repositório usando Add file > Upload files; confirme o commit. O link continua o mesmo.
+- A atualização NÃO é publicada automaticamente pelo ChatGPT.
+
+IMPORTANTE SOBRE PRIVACIDADE
+- GitHub Pages com repositório público expõe todos os dados incluídos em dados_base.js, inclusive para visitantes que não conhecem o link.
+- Confirme autorização da empresa para publicação pública dos dados. Se não houver autorização, use hospedagem com controle de acesso.
+- O OneDrive pode guardar cópia dos arquivos, mas não publica o site como um servidor web.
